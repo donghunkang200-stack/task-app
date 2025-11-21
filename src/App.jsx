@@ -1,9 +1,9 @@
 import "./App.css";
 import TaskColumn from "./components/TaskColumn";
 import TaskForm from "./components/TaskForm";
-import todoIcon from "./assets/direct-hit.png";
-import doingIcon from "./assets/glowing-star.png";
-import doneIcon from "./assets/check-mark-button.png";
+import todoIcon from "./assets/free-icon-font-edit-3917471.png";
+import doingIcon from "./assets/free-icon-font-flame-3917741.png";
+import doneIcon from "./assets/free-icon-font-list-check-3914414.png";
 import { useEffect, useState } from "react";
 
 const saveTasks = localStorage.getItem("tasks");

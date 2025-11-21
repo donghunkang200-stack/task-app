@@ -6,9 +6,10 @@
 .task_column_heading {
   display: flex;
   align-items: center;
+  font-size: 50px;
 }
 
 .task_column_icon {
-  width: 30px;
+  width: 40px;
   margin-right: 10px;
 }
